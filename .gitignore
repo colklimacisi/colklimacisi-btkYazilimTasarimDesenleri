@@ -2,3 +2,7 @@
 .metadata
 Composite/.classpath
 Composite/.project
+Decorator/.project
+Decorator/.classpath
+Decorator/.settings/org.eclipse.core.resources.prefs
+Decorator/.settings/org.eclipse.jdt.core.prefs
